@@ -1,0 +1,18 @@
+## expect(errors).toBeFalsy()
+{
+  people {
+    __typename
+    username
+    items: singleTableItemsList {
+      __typename
+      id
+      type
+      type2
+      position
+      createdAt
+      updatedAt
+      isExplicitlyArchived
+      archivedAt
+    }
+  }
+}

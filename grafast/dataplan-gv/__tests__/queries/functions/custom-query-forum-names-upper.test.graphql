@@ -1,0 +1,6 @@
+## expect(errors).toBeFalsy()
+## expect(queries).toHaveLength(1)
+## expect(data.FORUM_NAMES).toEqual(["CATS", "DOGS", "POSTGRES"])
+{
+  FORUM_NAMES
+}
